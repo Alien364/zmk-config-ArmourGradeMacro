@@ -1,0 +1,6 @@
+if SHIELD_ARMOURGRADEMACRO
+
+config ZMK_KEYBOARD_NAME
+    default "ArmourGrade9"
+
+endif

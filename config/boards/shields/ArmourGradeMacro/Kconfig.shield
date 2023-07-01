@@ -1,0 +1,2 @@
+config SHIELD_ARMOURGRADEMACRO
+    def_bool $(shields_list_contains,ArmourGradeMacro)
